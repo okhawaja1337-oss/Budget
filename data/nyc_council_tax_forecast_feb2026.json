@@ -1,0 +1,227 @@
+{
+ "published": "2026-03-09",
+ "label": "NYC Council February 2026 Tax Forecast",
+ "unit": "millions",
+ "years": [
+  2026,
+  2027,
+  2028,
+  2029,
+  2030
+ ],
+ "forecast": [
+  {
+   "tax": "Real Property",
+   "v": [
+    35319,
+    37373,
+    38798,
+    40427,
+    42197
+   ]
+  },
+  {
+   "tax": "Personal Income & PTET",
+   "v": [
+    20372,
+    21226,
+    21607,
+    22027,
+    22828
+   ]
+  },
+  {
+   "tax": "Business Corporate",
+   "v": [
+    6561,
+    7331,
+    7652,
+    7371,
+    7528
+   ]
+  },
+  {
+   "tax": "Unincorporated",
+   "v": [
+    3544,
+    3611,
+    3745,
+    3887,
+    4038
+   ]
+  },
+  {
+   "tax": "Sales",
+   "v": [
+    10885,
+    11320,
+    11838,
+    12238,
+    12646
+   ]
+  },
+  {
+   "tax": "Commercial Rent",
+   "v": [
+    955,
+    974,
+    995,
+    1013,
+    1033
+   ]
+  },
+  {
+   "tax": "Real Property Transfer",
+   "v": [
+    1490,
+    1541,
+    1584,
+    1646,
+    1698
+   ]
+  },
+  {
+   "tax": "Mortgage Recording",
+   "v": [
+    1012,
+    1064,
+    1086,
+    1094,
+    1088
+   ]
+  },
+  {
+   "tax": "Utility",
+   "v": [
+    515,
+    538,
+    561,
+    578,
+    596
+   ]
+  },
+  {
+   "tax": "Hotels",
+   "v": [
+    817,
+    884,
+    896,
+    918,
+    939
+   ]
+  },
+  {
+   "tax": "All Others",
+   "v": [
+    1500,
+    1380,
+    1398,
+    1414,
+    1424
+   ]
+  },
+  {
+   "tax": "Audits",
+   "v": [
+    1042,
+    1012,
+    1037,
+    1063,
+    1090
+   ]
+  },
+  {
+   "tax": "State Tax Programs",
+   "v": [
+    147,
+    86,
+    42,
+    -78,
+    -82
+   ]
+  }
+ ],
+ "total_forecast": [
+  84159,
+  88340,
+  91239,
+  93598,
+  97023
+ ],
+ "vsomb": [
+  {
+   "tax": "Real Property",
+   "v": [
+    -42,
+    724,
+    1045,
+    1559,
+    2028
+   ]
+  },
+  {
+   "tax": "Personal Income & PTET",
+   "v": [
+    89,
+    -71,
+    258,
+    321,
+    531
+   ]
+  },
+  {
+   "tax": "Business",
+   "v": [
+    -365,
+    -132,
+    422,
+    754,
+    861
+   ]
+  },
+  {
+   "tax": "Sales",
+   "v": [
+    17,
+    -112,
+    -138,
+    -289,
+    -326
+   ]
+  },
+  {
+   "tax": "Other Real Estate Taxes",
+   "v": [
+    19,
+    4,
+    5,
+    67,
+    93
+   ]
+  },
+  {
+   "tax": "All Other Taxes & Audits",
+   "v": [
+    106,
+    149,
+    164,
+    198,
+    246
+   ]
+  }
+ ],
+ "total_vsomb": [
+  -176,
+  562,
+  1757,
+  2609,
+  3433
+ ],
+ "highlights": [
+  "Council recognizes $172.5B of tax revenue in FY2026 & FY2027 — $4.3B more than its November forecast.",
+  "Tax revenue projected to grow ~4.7% annually through FY2030 (vs 5.5% avg in the 2010–2019 expansion).",
+  "Council projects $176M LESS than OMB in FY2026, but $562M MORE in FY2027 — and progressively more thereafter (+$3.4B by FY2030).",
+  "Extra revenue vs OMB is driven mainly by personal income and real-property transaction taxes; business corporate decouples from the federal OBBBA.",
+  "Council forecast does NOT include the Mayor’s proposed property-tax rate increase."
+ ]
+}
